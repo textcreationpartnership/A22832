@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statutys for the orderi[n]ge of purueyours or achatours for the kynges moost honourable housholde</title>
+            <author>England. King's Household.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22832</idno>
+            <idno type="STC">STC 9337</idno>
+            <idno type="STC">ESTC S118120</idno>
+            <idno type="EEBO-CITATION">99853329</idno>
+            <idno type="PROQUEST">99853329</idno>
+            <idno type="VID">18706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18706)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 4:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Statutys for the orderi[n]ge of purueyours or achatours for the kynges moost honourable housholde</title>
+                  <author>England. King's Household.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[R. Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1505?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on pi1 recto. Printer's name and suggested publication date from STC.</note>
+                  <note>Statutes for the king's household from 14 Edward III to 23 Henry VI. Translated into English.</note>
+                  <note>Has Pynson's device, McKerrow 9b, with his name on pi4 verso.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18706:1"/>
+            <pb facs="tcp:18706:1"/>
+            <head>¶ Statuty<hi rend="sup">t</hi>s for the orderi<g ref="char:cmbAbbrStroke">̄</g>ge of Puruey<hi rend="sup">t</hi>ours or Achatours for the ky<hi rend="sup">t</hi>nges mooſt honoura<g ref="char:EOLunhyphen"/>ble houſholde.<figure/>
+            </head>
+            <div type="statute">
+               <p>IT is ordeyned anno xith. E. iij. that no pur<g ref="char:EOLunhyphen"/>ueyour nor Achatour ſhall or may take for the kynge by any Co<g ref="char:cmbAbbrStroke">̄</g>myſſion or wythoute any Corne / Hey / beſtys / caryages / nor any other goodys of any Archebyſſhop / biſſhop abbotys pri<g ref="char:EOLunhyphen"/>ours / abeſſys / pryoreſſis / ꝑſones / vicairs / or of any other folkes of holy churche agayn their wyll.</p>
+            </div>
+            <div type="statute">
+               <head>¶ Anno primo Ricardi <abbr>ſcdi.</abbr>
+               </head>
+               <p>¶ And it is ordeyned if any of the ſayde Puruey<g ref="char:EOLhyphen"/>ours / or Achatours ſo do. Than they ſhall pay tre<g ref="char:EOLunhyphen"/>ble damages to be recouered in an accyon of Treſ<g ref="char:EOLhyphen"/>pas by any of the ſaide Archebiſſhops / byſſhops / &amp;
+<pb facs="tcp:18706:2"/> other before named ſo wronged.</p>
+            </div>
+            <div type="statute">
+               <head>¶ Anno xxv. E. iij. Ca. xv.</head>
+               <p>¶ It is ordeyned that the ſayde Purueyours nor Achatours ſhall take any Shepe of the people by<g ref="char:EOLhyphen"/>twyxt Eſter and Mydſomer / nor tyll the tyme of clyppynge be done nomo than ſhalbe neceſſary for the kynges houſholde and ſo after / and if they do they ſhalbe punyſſhed as robbers &amp; felons.</p>
+            </div>
+            <div type="statute">
+               <head>¶ Anno xxiij. Henrici ſexti. Reherſynge the Statutys folowynge.</head>
+               <p>¶ It is ordeyned that accordinge to the Statute made the xxvi. yere of kynge Ewarde the thyrde: that purueyaunces ſhalbe made for the kynge and the quenys howſholdes / and that redy payement ſhalbe made in hande after the pryces in the mar<g ref="char:EOLhyphen"/>kettys aboute.</p>
+               <p>And that the heynous names of the Purueyours ſhulde be chaunged and named achatours.</p>
+               <p>¶ And if they can nat agre w<hi rend="sup">t</hi> the ſeller of any vi<g ref="char:EOLhyphen"/>tayll: than the pryſes whiche ſhall be for the ſayde two howſholdes ſhall be made by the view: wyt<g ref="char:EOLhyphen"/>neſſynge and appreyſement of the lordes / or theyr baillyfs and conſtables and iiij. ꝓuable men of eue<g ref="char:EOLunhyphen"/>ry towne / &amp; that by ende<g ref="char:cmbAbbrStroke">̄</g>ture to be made bytwyxt the ſaide achatours / &amp; the ſayde lordes or baillifs or conſtables / or the ſayde iiij. men conteynynge the quantyte of their pryſes / and the pryce of the ſame ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppoynted.</p>
+               <pb facs="tcp:18706:2"/>
+               <p>¶ And that ſuche pryſes ſhalbe takyn and mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in couenable &amp; eaſy maner without dures thr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> manaſſes / or other velany and that to be don in places where gretteſt plenty is and ſhalbe and ty<g ref="char:EOLunhyphen"/>me conuenyent.</p>
+               <p>¶ And that no more be taken than ſhalb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nede<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul in his ſeaſon.</p>
+               <p>¶ And that the noumbre of Achatour<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be made as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewe as may be to ſerue.</p>
+               <p>¶ And that the ſame Achatours be choſen ſuffy<g ref="char:EOLunhyphen"/>cient to anſwere to the kynge &amp; to his people.</p>
+               <p>¶ And that none of theym ſhall haue deputee.</p>
+               <p>¶ Alſo that Co<g ref="char:cmbAbbrStroke">̄</g>myſſyons of them ſhalbe enſealed wyth the kynges great ſeale and euery halfe yere to be reſtored into the Chauncery and other newe Co<g ref="char:cmbAbbrStroke">̄</g>myſſions to be made. And that in the ſayde Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>myſſions ſhalbe conteyned the maner &amp; matyer of their takynge and byinge.</p>
+               <p>¶ Alſo that no perſone ſhalbe bou<g ref="char:cmbAbbrStroke">̄</g>den to obey the Achatours of any other lordes: nor the ſayde acha<g ref="char:EOLunhyphen"/>tours for the kynge &amp; the quene ageyne their wyll. but if they make redy payment in hande: as befo<g ref="char:EOLhyphen"/>re is ſayde.</p>
+               <p>¶ Alſo it is ordeyned that the Pryſes and takyn<g ref="char:EOLunhyphen"/>ges of all maner corne &amp; <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> for the ſayde two Howſholdes ſhal be meſured by meſu<g ref="char:EOLhyphen"/>re accordynge to the ſayde <abbr>ſtandard</abbr> by ſtrykyng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:18706:3"/> and nat by heape.</p>
+               <p>¶ And that for the caryages of the ſaide Corne &amp; for all other maner of pryſes and achatys to be ma<g ref="char:EOLunhyphen"/>de for the ſayde ij. houſholdes redy payement ſhal be made in hande.</p>
+               <p>¶ And that no more of Caryage be nat had than ſhalbe nedefull in that behalfe.</p>
+               <p>¶ And if any Achatour make any pryſes / &amp; acha<g ref="char:EOLhyphen"/>tys or takynge of caryage in other maner than is compryſed in their co<g ref="char:cmbAbbrStroke">̄</g>myſſion: he or they ſo doynge ſhalbe aiuged as felons and haue iugement and execucyon accordynge.</p>
+               <p>¶ Alſo it is ordeyned in the ſayde ꝑlyament that no Achatour of vitayll nor taker of caryage: take / nor receyue of no maner ꝑſone gift nor charge nor greue any ꝑſone bycauſe of any ſuche pryſes acha<g ref="char:EOLhyphen"/>tys or caryagys for hatred / enuye / euyll wyll / or ꝓ<g ref="char:EOLunhyphen"/>curement and if he or they ſo do / and therof be at<g ref="char:EOLhyphen"/>taynt at the ſuyte of the partye they ſhall yelde to the partye treble damages / and ſhall haue the In<g ref="char:EOLunhyphen"/>pryſonement by the ſpace of two yeres / and ſhall be raunſoned at the kynges wyll / and after ſhall abiure the kynges court.</p>
+               <p>¶ And if the partye wyll nat ſue: who ſo euer wyl ſue for the kynge ſhall haue the thirde peny for his ſuyte. And neuertheles the ſayde Achatours and takers ſhall haue the penaunce aforeſaide in thys preſent artycle.</p>
+               <p>¶ And that euery achatour vpo<g ref="char:cmbAbbrStroke">̄</g> his accompt ſhal
+<pb facs="tcp:18706:3"/> make playne declaracyon and ſeuerally ſhewe all maner pryſes and achates and of euery towne &amp; perſone.</p>
+               <p>¶ Kynge henry the vj. conſyderynge the premyſ<g ref="char:EOLhyphen"/>ſes the ſayde xxiij. yere o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hys reig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at his parlya<g ref="char:EOLunhyphen"/>ment holden at weſtm<g ref="char:cmbAbbrStroke">̄</g> the xxv. day of ſeuerere y<hi rend="sup">e</hi> ſame yere hathe ordeyned and co<g ref="char:cmbAbbrStroke">̄</g>maunded by au<g ref="char:EOLhyphen"/>ctoryte of hys ſayde parlyament: That the ſayde ſtatutys afore reherced ſhalbe for euer duely obſer<g ref="char:EOLunhyphen"/>ued and kepte and put in execucyon. And ouer y<hi rend="sup">t</hi> by the ſame auctoryte that euery purueyour and Achatour before they haue any co<g ref="char:cmbAbbrStroke">̄</g>myſſyon ſhalbe ſworne in the Chauncerye that they ſhall no thyn<g ref="char:EOLunhyphen"/>ge take of the people contrary to the ſaide ordynan<g ref="char:EOLunhyphen"/>ces.</p>
+               <p>¶ And ouer that hathe ordeyned by the auctoryte aforeſayde bicauſe pore folkes be nat of power no: dare nat make reſyſtence ageyne the purueyours and achatours / nor dare nat ſue theym by the law though they do contrary to the ſayde Statutys: That the appreyſours and alſo all the towne and Townes aioynynge if nede be: ſhal endeuer them wyth all their power to reſyſt and withſtande the ſayde Achatours and Purueyours whych dothe contrary to the ſayde Statutys and aſmoche as i<g ref="char:cmbAbbrStroke">̄</g> theym is to execute the ſayde Statutys vpon the ſayde Purueyours if they be requyred.</p>
+               <p>¶ And that any perſone greued of his goodys co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>trary to the ſayde ſtatutys may choſe to haue an
+<pb facs="tcp:18706:4"/> acco<g ref="char:cmbAbbrStroke">̄</g>n of dette ageyne the ſayde appreyſours Tow<g ref="char:EOLunhyphen"/>ne or Townes &amp; euery of theym which do nat ther deuer / or make nat reſiſtence ageyne the ſayde pur<g ref="char:EOLunhyphen"/>ueyours or achatours in fourme aforeſayde whan they ſhall be requyred. Or ellys ageyne the ſayde purueyours or achatours / and euery of theym to recouer the treble value of his goodys ſo vnlawful<g ref="char:EOLunhyphen"/>ly taken. And ouer that his coſtys / and damages trebled.</p>
+               <p>¶ And if any purueyour or other officer of our ſo<g ref="char:EOLhyphen"/>uereyne lorde the Kynge make to be troubled / or vexed in marchaiſe or ellys where any of the peple by any euyll ſuggeſtion / cauſe fayned Imagened or colour vpon theym for and bicauſe the execuco<g ref="char:cmbAbbrStroke">̄</g>n of the ſayde ſtatutys ſhall forfet xx. li. to be payed to the party greued beyonde his coſtys and dama<g ref="char:EOLhyphen"/>ges in that behalf ſuſteyned: and that he may ha<g ref="char:EOLhyphen"/>ue an acco<g ref="char:cmbAbbrStroke">̄</g>n of dette and that euery iſſue tryable in that accion ſhalbe tryed in the ſame countye whe<g ref="char:EOLhyphen"/>re the ſaide pryſes were made.</p>
+               <p>¶ And that the defendau<g ref="char:cmbAbbrStroke">̄</g>tys in that accion / &amp; i<g ref="char:cmbAbbrStroke">̄</g> all the ſayde caſes be nat admytted to wage their law</p>
+               <p>¶ And they ſhalbe put to anſwere withoute four<g ref="char:EOLhyphen"/>chynge and that eſſoyne / ayde of the kynge nor ꝓ<g ref="char:EOLhyphen"/>teccion to any of theym be allowed.</p>
+               <p>¶ And that the Seriant of the chatery ſhall ſatiſ<g ref="char:EOLunhyphen"/>fye all the damages / dettes / &amp; execucio<g ref="char:cmbAbbrStroke">̄</g>s which ſhal be recouered ageyne euery purueyour &amp; achatour <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>der hym in all the caſes aforeſayde. In caſe the
+<pb facs="tcp:18706:4" rendition="simple:additions"/> Purueyour / or achatour be nat ſufficyent to ſatyſ<g ref="char:EOLunhyphen"/>fye.</p>
+               <p>¶ And that the plainty playntif ſhall haue a ſcire facias to haue execuco<g ref="char:cmbAbbrStroke">̄</g>n ageyne the ſaide Seriant in that caſe.</p>
+               <p>¶ And that the ſayde ordynaunces be ſent to the Iuſtyces of peas in euery ſhyre to ꝓclayme them euery yere and to enfourme the people of the ſame</p>
+            </div>
+         </div>
+         <trailer>¶ Finis.</trailer>
+      </body>
+      <back>
+         <div type="printers_device">
+            <pb facs="tcp:18706:5"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device of Richard Pynson (1492-1530)consisting of Pynson's monogram on a shield upheld by a boy and girl and surmounted by a helmet and surrounded by a border with the Virgin and a saint in the lower left- and right-hand corners, respectively</figDesc>
+                  <figure>
+                     <head>R P</head>
+                     <figDesc>depiction of Pynson's initials, consisting of a conjoined 'R' and 'P'</figDesc>
+                  </figure>
+                  <p>Richard Pynſon</p>
+                  <sp>
+                     <p>
+                        <add>O BEATA M MEMEN<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </add>
+                     </p>
+                  </sp>
+               </figure>
+            </p>
+            <pb facs="tcp:18706:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
